@@ -1,0 +1,5 @@
+# ninja log v5
+1	1144	7316738651008878	CMakeFiles/production_plan.dir/main.cpp.obj	a39b60a679098cef
+1145	1529	7316738654698323	production_plan.exe	918167759ce41d85
+2	3583	7316830354501908	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	2c9615cd08246dd2
+3584	4185	7316830359807217	build/bin/uMV-FSTSP.exe	ea3a9c814c62cf55

@@ -1,0 +1,18 @@
+# ninja log v5
+0	3711	7316854583401374	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+3712	4063	7316854586228652	build/bin/uMV-FSTSP.exe	ea3a9c814c62cf55
+12	2109	7322025757586384	CMakeFiles/uMV-FSTSP.dir/src/instance.cpp.obj	84fc677b1909abcd
+1	2966	7322027777334075	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+1	927	7322028141097321	CMakeFiles/uMV-FSTSP.dir/src/instance.cpp.obj	84fc677b1909abcd
+928	2078	7322028151447831	build/bin/uMV-FSTSP.exe	1d9a8720619e7db
+1	3122	7322028377158452	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+3123	3505	7322028380266681	build/bin/uMV-FSTSP.exe	1d9a8720619e7db
+1	3177	7322037119939372	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+8	3039	7322038516003203	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+3	3089	7322038830017503	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+1	3459	7322039678068965	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+1	1277	7322040912830249	CMakeFiles/uMV-FSTSP.dir/src/instance.cpp.obj	84fc677b1909abcd
+9	3238	7322040932439235	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+3239	3722	7322040936366866	build/bin/uMV-FSTSP.exe	1d9a8720619e7db
+2	2874	7322041547679718	CMakeFiles/uMV-FSTSP.dir/src/main.cpp.obj	27e73ad0cfa07b78
+2875	3244	7322041550697992	build/bin/uMV-FSTSP.exe	1d9a8720619e7db
